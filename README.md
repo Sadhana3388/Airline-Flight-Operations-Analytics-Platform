@@ -157,16 +157,6 @@ Through this project, I gained practical experience in:
 - Developing interactive Databricks AI/BI dashboards.
 - Understanding airline operational metrics and business requirements.
 
-## 📁 Project Deliverables
-
-- Databricks Lakeflow Spark Declarative Pipeline.
-- Bronze, Silver, and Gold tables.
-- SQL transformation queries.
-- Data quality and reconciliation results.
-- Pipeline workflow and architecture screenshots.
-- Three-page Databricks AI/BI Dashboard.
-- Project documentation.
-
 ## 👨‍💻 Conclusion
 
 This project demonstrates how raw airline flight data can be transformed into trusted, business-ready information using modern Data Engineering concepts.
